@@ -10,9 +10,9 @@
 
 <p align="center">
   🌐 <strong>Website:</strong> <a href="https://mitpa.tech">mitpa.tech</a> •
-  📚 <strong>Exams Database:</strong> <a href="https://files.mitpa.tech">files.mitpa.tech</a> •
+  📚 <strong>Exams:</strong> <a href="https://files.mitpa.tech">files.mitpa.tech</a> •
   📊 <strong>Dashboard:</strong> <a href="https://dashboard.mitpa.tech">dashboard.mitpa.tech</a> •
-  📈 <strong>Status Page:</strong> <a href="https://status.mitpa.tech">status.mitpa.tech</a>
+  📈 <strong>Status:</strong> <a href="https://status.mitpa.tech">status.mitpa.tech</a>
 </p>
 
 ---
