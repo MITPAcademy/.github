@@ -47,6 +47,6 @@
 
 ---
 
-> ### See Contributors [here.](./contributors.md)
+> ### See Contributors [here.](../contributors.md)
 > 
 > ### Join in Discord [here.](https://mitpa.tech/discord)
