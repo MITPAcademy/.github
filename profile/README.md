@@ -37,6 +37,12 @@
   <img src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg" alt="Upptime" width="300"/>
 </p>
 
+
+## 📝 CMS by
+<p align="center">
+  <img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" alt="Sanity" width="100"/>
+</p>
+
 ## ⚙️ Powered By
 
 <p align="center">
