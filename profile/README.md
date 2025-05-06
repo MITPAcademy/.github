@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mitpa.tech">
-    <img src="https://raw.githubusercontent.com/MITPAcademy/.github/refs/heads/main/assets/logo.png" width="200" alt="MITPA Logo" />
+    <img src="https://mitpa-tech.vercel.app/Logo.png" width="200" alt="MITPA Logo" />
   </a>
 </p>
 
