@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://mitpa.tech">
-    <img src="https://img.shields.io/badge/Website-mitpa.tech-blue?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Web-mitpa.tech-blue?style=for-the-badge" alt="Website">
   </a>
   <a href="https://files.mitpa.tech">
     <img src="https://img.shields.io/badge/Exams-files.mitpa.tech-green?style=for-the-badge" alt="Exams">
