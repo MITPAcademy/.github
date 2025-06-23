@@ -7,19 +7,16 @@
 
 <p align="center">
   <a href="https://mitpa.tech">
-    <img src="https://img.shields.io/badge/Web-mitpa.tech-blue?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Website-mitpa.tech-blue?style=for-the-badge" alt="Website">
   </a>
   <a href="https://files.mitpa.tech">
     <img src="https://img.shields.io/badge/Exams-files.mitpa.tech-green?style=for-the-badge" alt="Exams">
   </a>
   <a href="https://docs.mitpa.tech/dashboard">
-    <img src="https://img.shields.io/badge/Dashboard-COMING-lightgrey?style=for-the-badge" alt="Dashboard">
+    <img src="https://img.shields.io/badge/Dashboard-COMING%20SOON-lightgrey?style=for-the-badge" alt="Dashboard">
   </a>
   <a href="https://status.mitpa.tech">
     <img src="https://img.shields.io/badge/Status-status.mitpa.tech-orange?style=for-the-badge" alt="Status">
-  </a>
-  <a href="https://docs.mitpa.tech">
-    <img src="https://img.shields.io/badge/Docs-docs.mitpa.tech-orange?style=for-the-badge" alt="Status">
   </a>
 </p>
 
