@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://mitpa.tech">
-    <img src="https://mitpa-tech.vercel.app/Logo.png" width="200" alt="MITPA Logo" />
+    <img src="https://raw.githubusercontent.com/MITPAcademy/.github/refs/heads/main/banner.jpg" alt="MITPA Logo" />
   </a>
 </p>
-
-<h3 align="center">Democratizing access to high-quality education through technology, community, and purpose.</h3>
 
 ---
 
