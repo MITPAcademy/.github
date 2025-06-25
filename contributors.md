@@ -1,9 +1,7 @@
 # All Contributors
 
 ## Bot Contributors
-<a href="https://github.com/MITPAcademy/bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MITPAcademy/bot" />
-</a>
+*Coming Soon*
 
 ## Website Contributors
 <a href="https://github.com/MITPAcademy/mitpa.tech/graphs/contributors">
@@ -16,9 +14,7 @@
 </a>
 
 ## Dashboard Contributors
-<a href="https://github.com/MITPAcademy/dashboard.mitpa.tech/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MITPAcademy/dashboard.mitpa.tech" />
-</a>
+*Coming Soon*
 
 ## Status Page Contributors
 <a href="https://github.com/MITPAcademy/status.mitpa.tech/graphs/contributors">
