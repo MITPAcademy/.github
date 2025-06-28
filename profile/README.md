@@ -61,4 +61,4 @@
 
 > ### See Contributors [here.](../contributors.md)
 > 
-> ### Join in Discord [here.](https://mitpa.tech/discord)
+> ### Join in Discord [here.](https://practa.tech/discord)
