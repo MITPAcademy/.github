@@ -24,4 +24,4 @@ Violating this code of conduct may result in actions such as:
 
 ## Enforcement
 
-If you witness or are the victim of any violations of this code, please reach out to us at **contact@mitpa.tech**.
+If you witness or are the victim of any violations of this code, please reach out to us at **contact@practa.tech**.
